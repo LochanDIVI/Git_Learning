@@ -12,5 +12,5 @@ select 10-15 Devices, add multiple/all exceptions as pass, score change in Manag
 Remediation Settings need to validate for multiple devices
 
 
-
+Working on API Automation for now
 
