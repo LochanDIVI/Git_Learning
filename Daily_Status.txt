@@ -1,0 +1,16 @@
+171400  --> secureqa_junesa
+171403  --> secureqa_duplo_sa
+171404  --> secureqa_default_container
+
+
+=========================================================================================
+
+Performance issue - Manage devices page responding slowly
+
+select 10-15 Devices, add multiple/all exceptions as pass, score change in Manage Devices and complaince page not reflecting properly for 2-3 device
+
+Remediation Settings need to validate for multiple devices
+
+
+
+
