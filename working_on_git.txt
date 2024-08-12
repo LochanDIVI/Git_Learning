@@ -1,15 +1,16 @@
-Learning How to install git
-
-and commands utilised in it
-
 
 ========================================
+Git commands
 
-mkdir localRepo
+clone & Status
+
+Clone -cloning a repository on our local machine
+git clone <https git repository link>
+
+Status -displays the state of the code
+git status
 
 git init
-
-git status
 
 git add <file>
 git add .

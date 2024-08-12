@@ -5,12 +5,7 @@
 
 =========================================================================================
 
-Performance issue - Manage devices page responding slowly
+Need to practice git and git hub on daily bases
 
-select 10-15 Devices, add multiple/all exceptions as pass, score change in Manage Devices and complaince page not reflecting properly for 2-3 device
-
-Remediation Settings need to validate for multiple devices
-
-
-Working on API Automation for now
-
+Also need to practice python
+and need to practice java script
