@@ -18,8 +18,6 @@ git clone <https git repository link>
 Status -displays the state of the code
 git status
 
-git init
-
 git add <file>
 git add .
 
@@ -27,25 +25,23 @@ git commit -m " "
 
 git push origin main
 
+git init
+
 git remote add origin <link>
 
-git branch
-git branch -M main
+git remote -v (to verify remote)
 
-git checkout main
-git checkout -b <new branch name>
+git branch (to check branch)
+git branch -M main (to change master to main)
+git checkout -b <new branch name> (to create a new branch)
+git checkout <branch name> (to change from one branch to another)
+git branch -d <branch name> (to delete the branch)
 
-git branch -d <branch name>
+
+
 -----------------------
-untracked -- new files that git doesn't yet track
 
-modified  -- changed
 
-staged -- file is ready to be committed
 
-unmodified -- unchanged
 
-push - upload local repo content too remote repo --git push origin main
-
-To work on existing repository
 
