@@ -1,5 +1,13 @@
 
 ========================================
+Untracked :new files that git doesn't yet track
+
+Modified :changed that git doesn't yet track
+
+Staged :file is ready to be committed
+
+Unmodified :unchanged after execute commit
+
 Git commands
 
 clone & Status
@@ -38,3 +46,6 @@ staged -- file is ready to be committed
 unmodified -- unchanged
 
 push - upload local repo content too remote repo --git push origin main
+
+To work on existing repository
+
